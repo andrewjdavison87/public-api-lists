@@ -1000,6 +1000,7 @@ data
 |  [Sweden](https://developer.postnord.com/docs2)  | Provides information about parcels in transport                         | `apiKey` |  No   | Unknown |
 |    [UPS](https://www.ups.com/upsdeveloperkit)    | Shipment and Address information                                        | `apiKey` |  Yes  | Unknown |
 | [WhatPulse](https://whatpulse.org/pages/webapi/) | Small application that measures your keyboard/mouse usage               |    No    |  Yes  | Unknown |
+|     [Let's Count](https://letscountapi.com)      | Create, retrieve, update, increment, and decrement counters             |    No    |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
